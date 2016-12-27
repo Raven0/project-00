@@ -14,4 +14,4 @@ Small solo (so far) project that I started with the purpose of learning C# and e
 sprite sheets
 running and rolling (left/right, up/down)
 attack
-flinch
+flinch 
