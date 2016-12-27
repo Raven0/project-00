@@ -2,7 +2,7 @@
 
 2D Unity C# simple dark souls clone
 
-2D-Top Down Perspective
+2D-Top Down (Slight Angle) Perspective
 
 Small solo (so far) project that I started with the purpose of learning C# and exploring the process of 
  designing/programming games.
