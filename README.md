@@ -1,4 +1,4 @@
-# project-00
+# project-00 (DISCONTINUED)
 
 2D Unity C# simple dark souls clone
 
